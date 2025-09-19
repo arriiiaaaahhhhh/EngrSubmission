@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f12f81432d659449dcb9fba868dfa6, type: 3}
+  m_Name: Shark
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: Shark
+  size: {x: 1, y: 1}
+  sprite: {fileID: 21300000, guid: 952912a6cdcdea3408d0982a025a21dd, type: 3}
+  worldPrefab: {fileID: 1184954362860774531, guid: 953e01555ac8c4645958319158332c59, type: 3}
